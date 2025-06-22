@@ -12,11 +12,17 @@ experiences:
   subtitle: "Major Gifts Data Strategy"
   category: "work"
 
-- place: "Paul G. Allen School of Computer Science & Engineering"
+- place: "Paul Allen School of Computer Science"
   time: "June-Dec 2024"
   title: "Lead Analyst, Research"
   subtitle: "Behavioral Data Science Lab"
   category: "work"
+
+- place: "University of Washington, Seattle"
+  time: "Sep 2023 - June 2025"
+  title: "Master of Science"
+  subtitle: "Information Management <br/> Specialization: Data Science, Business Intelligence <br/> GPA: 3.95"
+  category: "school"
 
 - place: "IIM Indore"
   time: "July 2022 - April 2023"
