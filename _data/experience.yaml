@@ -13,7 +13,7 @@ experiences:
   category: "work"
 
 - place: "Paul Allen School of Computer Science"
-  time: "June-Dec 2024"
+  time: "Jun-Dec 2024"
   title: "Lead Analyst, Research"
   subtitle: "Behavioral Data Science Lab"
   category: "work"
@@ -44,6 +44,6 @@ experiences:
 
 - place: "BITS Pilani, K K Birla Goa Campus"
   time: "2013 - 2018"
-  title: "B.E. (Hons.) and MSc"
-  subtitle: "Chemical Engineering <br/> M.Sc.(Chemistry) <br/> First Division"
+  title: "B.E. (Hons.) Chemical Engineering and M.Sc.(Chemistry)"
+  subtitle: "First Division"
   category: "school"
