@@ -1,7 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /msaveski
+url: "https://jaivardhanschauhan.github.io"   
+baseurl: ""
 
 collections:
   projects:
