@@ -54,8 +54,14 @@ experiences:
   subtitle: "Department of Knowledge Technologies"
   category: "work"
 
-- place: "Staffordshire University"
-  time: "2007 - 2010"
-  title: "B.Sc. Student"
-  subtitle: "Computing Science <br/> First Class Honours"
+- place: "BITS Pilani, K K Birla Goa Campus"
+  time: "2013 - 2018"
+  title: "B.E. (Hons.)"
+  subtitle: "Chemical Engineering <br/> First Division"
+  category: "school"
+
+- place: "BITS Pilani, K K Birla Goa Campus"
+  time: "2013 - 2018"
+  title: "MSc"
+  subtitle: "Chemistry"
   category: "school"
