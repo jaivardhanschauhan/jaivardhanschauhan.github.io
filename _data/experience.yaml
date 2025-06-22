@@ -12,7 +12,7 @@ experiences:
   subtitle: "Major Gifts Data Strategy"
   category: "work"
 
-- place: "School of CSE, UW"
+- place: "Paul G. Allen School of CSE, UW"
   time: "Jun-Dec 2024"
   title: "Lead Analyst, Research"
   subtitle: "Behavioral Data Science Lab"
@@ -20,14 +20,13 @@ experiences:
 
 - place: "University of Washington, Seattle"
   time: "Sep 2023 - June 2025"
-  title: "Master of Science"
-  subtitle: "Information Management <br/> Specialization: Data Science, Business Intelligence <br/> GPA: 3.95"
+  title: "Master of Science - Information Management"
+  subtitle: "Specialization: Data Science, Business Intelligence <br/> GPA: 3.95"
   category: "school"
 
 - place: "IIM Indore"
   time: "July 2022 - April 2023"
-  title: "Executive Education"
-  subtitle: "Integrated Program in Business Analytics"
+  title: "Integrated Program in Business Analytics"
   category: "school"
 
 - place: "InMobi"
