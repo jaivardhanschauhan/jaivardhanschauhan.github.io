@@ -1,39 +1,39 @@
 projects:
   - title: "Fundraiser Portfolio Scorecard - UW Advancement"
     subtitle: "Turning siloed data into actionable insights for fundraising strategy"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    thumbnail: "assets/projects/fundraiser_db/thumbnail.jpg"
     url: "projects/2016_network-ab-testing.html"
     selected: y
 
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
+  - title: "End-to-end Kimball data warehouse for business intelligence system"
+    subtitle: "Store sales analysis with dimensional modeling, ELT, and Tableau dashboards"
+    thumbnail: "assets/projects/kimball_dw/thumbnail.jpg"
     url: "projects/2016_human-atlas.html"
     selected: y
 
-  - title: "Responsive Communities"
-    subtitle: "Pilot project in Jun, Spain"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
+  - title: "Gradient descent algorithm from scratch"
+    subtitle: "Modeling geological data in Python using regression analysis"
+    thumbnail: "assets/projects/gradient_descent/thumbnail.png"
     url: "projects/2015_jun.html"
     selected: y
 
-  - title: "Cold-Start Recommendations"
-    subtitle: "Learning Local Collective Embeddings"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+  - title: "Analyzing NYC restaurant market using customer reviews"
+    subtitle: "Logistic regression and business classification in R"
+    thumbnail: "assets/projects/nyc_restaurants/thumbnail.jpg"
     url: "projects/2014_item-cold-start.html"
-    selected: n
+    selected: y
 
-  - title: "Semi-supervised Learning"
-    subtitle: "Iterative Hybrid Algorithm"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+  - title: "Interactive Tableau story for global business indicators"
+    subtitle: "Parameter-driven country classification and GDP insights"
+    thumbnail: "assets/projects/global_business/thumbnail.jpg"
     url: "projects/2013_iterative-hybrid-algorithm.html"
-    selected: n
+    selected: y
 
-  - title: "Twitter Sentiment Analysis"
-    subtitle: "Analyzing Financial Tweets"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+  - title: "Tableau dashboard on how Americans spend their time"
+    subtitle: "Insights by age on social, family, and alone time (2009-2019)"
+    thumbnail: "assets/projects/americans_time/thumbnail.png"
     url: "projects/2011_twitter-sentiment-analysis.html"
-    selected: n
+    selected: y
 
   - title: "Wordnet Construction"
     subtitle: "Automatic Wordnet Construction using Language Models"
