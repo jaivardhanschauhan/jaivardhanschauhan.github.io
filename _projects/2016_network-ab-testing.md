@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fundraiser Portfolio Scorecard - UW Advancement
-subtitle: "Turning siloed data into actionable insights for fundraising strategy"
+subtitle: Turning siloed data into actionable insights for fundraising strategy
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
