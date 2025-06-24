@@ -1,16 +1,10 @@
 ---
 layout: project
-title: Automatic Wordnet Construction
+title: Modeling life expectancy and global health trends
+subtitle: Statistical analysis and predictive modeling of life expectancy in R
 ---
-Wordnet is one of the most valuable lexical resources in the Natural Language Processing community. Unfortunately, the benefits of building a Wordnet for the Macedonian language have never been recognized. Due to the time and labor intensive process of manual building of such a lexical resource, we were inspired to develop a method for its automated construction. In this paper, we present a new method for construction of non-English Wordnets by using the Princeton implementation of Wordnet as a backbone for their construction along with Google’s translation tool and search engine. We applied the new method for construction of the Macedonian Wordnet and developed a Wordnet containing 17,553 words grouped into 33,276 synsets. However, the method in consideration is general and can also be applied for other languages. Finally, we report the results of an experiment using the Macedonian WordNet as a means to improve the performance of the text classification algorithms.
+This project involved statistical analysis and predictive modeling of life expectancy trends across 204 countries from 1960 to 2019, using a large Gapminder dataset and R. The work included extensive data cleaning, feature engineering, and regression modeling. Key drivers of life expectancy identified were GDP per capita, fertility rate, region, and year. Results showed that life expectancy globally has been rising, with notable regional disparities - Europe and Americas consistently leading, while Africa lagged behind. <br/>
+Other insights included China achieving a 75.9% increase in life expectancy, significant drops in Rwanda and Cambodia during periods of conflict, and a clear inverse relationship between fertility rate and life expectancy. The best predictive model achieved an R² of 0.85, confirming the strong influence of economic and social factors on life expectancy.
 
-**More details: [paper]({{ "/assets/publications/2010_wordnet_construction/paper.pdf" | prepend: site.baseurl }}), [presentation]({{ "/assets/publications/2010_wordnet_construction/slides.pdf" | prepend: site.baseurl }}).**
+<a href="https://github.com/jaivardhanschauhan/statisticalinference/blob/main/life_expectancy_exploration/qualityoflife.md" target="_blank" class="button">Code</a>
 
-(This is a work done as part of my B.Sc. thesis and later published at the Language Technologies conference in Ljubljana, Slovenia.)
-
-{% 
-	include image_with_caption.html 
-	url="/assets/projects/2010_wordnet-construction/chart.jpg" 
-	description="Using Google’s translation tool and search engine for building Wordnets" 
-	width="100%" 
-%}
