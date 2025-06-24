@@ -14,8 +14,8 @@ The Fundraiser Portfolio Scorecard Report is a Tableau dashboard and related doc
 **Challenges & Learnings**: Key challenges included data complexities, access delays, evolving scope, and eventually  user adoption across hundreds of different workflows. The project highlighted the importance of stakeholder alignment and the value of iterative design in addressing user pain points. <br/>
 **Next Steps**: Future efforts involve transitioning the prototype to a production version through testing, adding linking GUIDs, enhancing data-driven recommendations, piloting the product, and implementing a training and change management plan.
 
-<a href="/assets/projects/fundraiser_db/CSposter.pdf" target="_blank" class="button">View Project Poster (PDF)</a>
-<a href="https://github.com/jaivardhanschauhan/uwadvancement" target="_blank" class="button">View Full Project Poster (PDF)</a>
+<a href="/assets/projects/fundraiser_db/CSposter.pdf" target="_blank" class="button">Poster</a>
+<a href="https://github.com/jaivardhanschauhan/uwadvancement" target="_blank" class="button">Code</a>
 
 
 
