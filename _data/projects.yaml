@@ -35,20 +35,26 @@ projects:
     url: "projects/2011_twitter-sentiment-analysis.html"
     selected: y
 
-  - title: "Wordnet Construction"
-    subtitle: "Automatic Wordnet Construction using Language Models"
-    thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
+  - title: "Modeling life expectancy and global health trends"
+    subtitle: "Statistical analysis and predictive modeling of life expectancy in R"
+    thumbnail: "assets/projects/life_expectancy/thumbnail.jpg"
     url: "projects/2010_wordnet-contruction.html"
-    selected: n
+    selected: y
 
-  - title: "Fingerprint Verification"
-    subtitle: "Image processing class project"
-    thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
+  - title: "Forecasting customer demand in the ride sharing industry"
+    subtitle: "Predicting bike rentals using decision tree based models"
+    thumbnail: "assets/projects/bike_rentals/thumbnail.png"
     url: "projects/2010_fingerprint-verification.html"
-    selected: n
+    selected: y
 
-  - title: "Connect Four AI Agent"
-    subtitle: "Iterative deepening and alpha-beta pruning"
-    thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
+  - title: "Applied Machine Learning Models (Graduate classwork)"
+    subtitle: "Documented various ML models with explanations"
+    thumbnail: "assets/projects/ml_models/thumbnail.png"
     url: "projects/2009_connect-four.html"
     selected: n
+
+  - title: "Helping Seattle residents coexist with urban coyotes"
+    subtitle: "Designed an interactive platform to support human coyote coexistence"
+    thumbnail: "assets/projects/coyotes_design/thumbnail.png"
+    url: "projects/2009_connect-four.html"
+    selected: y
