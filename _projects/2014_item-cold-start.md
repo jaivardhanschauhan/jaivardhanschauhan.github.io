@@ -1,15 +1,8 @@
 ---
 layout: project
-title: Item Cold-start Recommendations
-subtitle: Learning Local Collective Embeddings
+title: Analyzing NYC restaurant market using customer reviews
+subtitle: Logistic regression and business classification in R
 ---
-Recommender systems suggest to users items that they might like (e.g., news articles, songs, movies) and, in doing so, they help users deal with information overload and enjoy a personalized experience. One of the main problems of these systems is the item cold-start, i.e., when a new item is introduced in the system and no past information is available, then no effective recommendations can be produced. The item cold-start is a very common problem in practice: modern online platforms have hundreds of new items published every day. To address this problem, we propose to learn *Local Collective Embeddings*: a matrix factorization that exploits items' properties and past user preferences while enforcing the manifold structure exhibited by the collective embeddings. We present a learning algorithm based on multiplicative update rules that are efficient and easy to implement. The experimental results on two item cold-start use cases: news recommendation and email recipient recommendation, demonstrate the effectiveness of this approach and show that it significantly outperforms six state-of-the-art methods for item cold-start.
+In this project, I used logistic regression in R to classify New York City restaurants as either “luxury” or “low-end” based on customer reviews and key restaurant attributes. The objective was to understand which factors contribute to a restaurant’s perceived elegance and to build a predictive model that can generalize to new cases. The model used four explanatory variables - Food, Service, Decor, and Location. Because logistic regression is non-linear, we used Average Marginal Effects (AME) to interpret the impact of each variable on classification outcomes. The analysis showed that a one unit increase in decor rating reduces the probability of a restaurant being low-end by an average of 8.5%. Likewise, improving food ratings by one unit lowers that probability by 6.37%. Both effects were statistically significant. On the other hand, variables such as location (east of 5th Ave) and service rating were not statistically significant. These results align with intuition: restaurants investing in better decor and food quality are more likely to be perceived as luxury, while lower-end restaurants may cut corners on food quality and ambiance. 
 
-**More details: [paper]({{ "/assets/publications/2014_item_cold_start/paper.pdf" | prepend: site.baseurl }}), [slides]({{"/assets/publications/2014_item_cold_start/slides.pdf" | prepend: site.baseurl}}).**
-
-{% 
-	include image_with_caption.html 
-	url="/assets/projects/2014_item-cold-start/main.jpg" 
-	description="The intuition behind learning collective embeddings using matrix factorization"
-	width="100%" 
-%}
+<a href="https://github.com/jaivardhanschauhan/statisticalinference/blob/main/RestaurantClassifier/RestaurantClassifier.md" target="_blank" class="button">Code</a>
