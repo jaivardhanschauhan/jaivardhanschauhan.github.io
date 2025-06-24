@@ -16,6 +16,7 @@ The Fundraiser Portfolio Scorecard Report is a Tableau dashboard and related doc
 
 <iframe src="/assets/projects/fundraiser_db/CSposter.pdf" width="100%" height="550px"></iframe>
 
+<a href="/assets/projects/fundraiser_db/CSposter.pdf" target="_blank" class="button">View Full Project Poster (PDF)</a>
 
 This work is part of a two-paper series.
 In the <a href="https://arxiv.org/abs/1704.01190" target="_blank">first paper</a> we introduce the methodology and main theoretical results and
