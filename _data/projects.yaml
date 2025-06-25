@@ -50,7 +50,7 @@ projects:
   - title: "Applied Machine Learning Models (Graduate classwork)"
     subtitle: "Documented various ML models with explanations"
     thumbnail: "assets/projects/ml_models/thumbnail.png"
-    url: "projects/2009_connect-four.html"
+    url: "projects/applied_ML.html"
     selected: n
 
   - title: "Helping Seattle residents coexist with urban coyotes"
