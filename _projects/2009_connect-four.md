@@ -22,4 +22,4 @@ subtitle: Designed an interactive platform to support human coyote coexistence
 <a href="/assets/projects/coyotes_design/Team Earth_Final Design Report Materials-1.pdf" target="_blank" class="button">Report</a>
 <a href="/assets/projects/coyotes_design/Final Materials_Prototype Doc_Edited-1.pdf" target="_blank" class="button">Prototype</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bDe2xGUe0Kc" frameborder="0" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDe2xGUe0Kc" frameborder="0" allowfullscreen></iframe> 
