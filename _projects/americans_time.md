@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tableau dashboard on how Americans spend their time
+title: Tableau viz on how Americans spend their time
 subtitle: Insights by age on social, family, and alone time (2009-2019)
 ---
 
