@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Gradient descent algorithm from scratch
-subtitle: Modeling geological data in Python using regression analysis
+title: Applied Machine Learning Models (Graduate classwork) 
+subtitle: Documented various ML models with explanations
 ---
-This project implements a gradient descent algorithm from scratch in Python to model rock permeability using geological data. Firstly, a linear regression model was trained using iterative optimization, with experiments on tuning learning rates and iteration counts to evaluate convergence. The loss function (Mean Squared Error) was tracked over epochs to visualize performance. The final model’s results were compared against Python’s statsmodels library. Visualizations were created to interpret the model’s predictive power on real-world rock data. This comparison showed how custom optimization can closely match standard tools when carefully tuned. 
+This work documents a series of Jupyter notebooks developed as part of graduate coursework in machine learning at UW Seattle. The work covers fundamental ML models including Decision Trees, Random Forests, SVM, k-NN, Neural Networks, Linear and Logistic Regression, and Clustering (K-Means, Agglomerative). Each notebook includes explanations, code examples, and datasets used for model training and evaluation.
 
-<a href="https://github.com/jaivardhanschauhan/MLprojects/blob/main/GradientDescent/Gradient_descent.ipynb" target="_blank" class="button">Code</a>
+<a href="https://github.com/jaivardhanschauhan/machinelearning" target="_blank" class="button">Code</a>
