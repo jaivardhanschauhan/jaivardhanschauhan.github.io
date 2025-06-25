@@ -54,7 +54,7 @@ projects:
     selected: n
 
   - title: "Helping Seattle residents coexist with urban coyotes"
-    subtitle: "Designed an interactive platform to support human coyote coexistence"
+    subtitle: "Interactive platform to support human coyote coexistence"
     thumbnail: "assets/projects/coyotes_design/thumbnail.png"
     url: "projects/coyotes_design.html"
     selected: y
