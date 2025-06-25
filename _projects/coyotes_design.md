@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Helping Seattle residents coexist with urban coyotes 
+title: Supporting Human-Coyote Coexistence in Seattle 
 subtitle: Designed an interactive platform to support human coyote coexistence 
 ---
 
