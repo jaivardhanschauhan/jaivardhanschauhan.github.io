@@ -5,8 +5,8 @@ projects:
     url: "projects/fundraiser_db.html"
     selected: y
 
-  - title: "End-to-end Kimball data warehouse for business intelligence system"
-    subtitle: "Store sales analysis with dimensional modeling, ELT, and Tableau dashboards"
+  - title: "Kimball data warehouse for business intelligence system"
+    subtitle: "Sales analysis with dimensional modeling, ELT, and Tableau dashboards"
     thumbnail: "assets/projects/kimball_dw/thumbnail.jpg"
     url: "projects/kimball_dw.html"
     selected: y
