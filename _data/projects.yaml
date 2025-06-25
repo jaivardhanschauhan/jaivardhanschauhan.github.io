@@ -6,7 +6,7 @@ projects:
     selected: y
 
   - title: "Kimball data warehouse for business intelligence system"
-    subtitle: "Sales analysis with dimensional modeling, ELT, and Tableau dashboards"
+    subtitle: "Sales analysis with dimensional modeling, ELT, & Tableau viz"
     thumbnail: "assets/projects/kimball_dw/thumbnail.jpg"
     url: "projects/kimball_dw.html"
     selected: y
