@@ -2,49 +2,49 @@ projects:
   - title: "Fundraiser Portfolio Scorecard - UW Advancement"
     subtitle: "Turning siloed data into actionable insights for fundraising strategy"
     thumbnail: "assets/projects/fundraiser_db/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+    url: "projects/fundraiser_db.html"
     selected: y
 
   - title: "End-to-end Kimball data warehouse for business intelligence system"
     subtitle: "Store sales analysis with dimensional modeling, ELT, and Tableau dashboards"
     thumbnail: "assets/projects/kimball_dw/thumbnail.jpg"
-    url: "projects/2016_human-atlas.html"
+    url: "projects/kimball_dw.html"
     selected: y
 
   - title: "Gradient descent algorithm from scratch"
     subtitle: "Modeling geological data in Python using regression analysis"
     thumbnail: "assets/projects/gradient_descent/thumbnail.png"
-    url: "projects/2015_jun.html"
+    url: "projects/gradient_descent.html"
     selected: y
 
   - title: "Analyzing NYC restaurant market using customer reviews"
     subtitle: "Logistic regression and business classification in R"
     thumbnail: "assets/projects/nyc_restaurants/thumbnail.jpg"
-    url: "projects/2014_item-cold-start.html"
+    url: "projects/nyc_restaurants.html"
     selected: y
 
   - title: "Interactive Tableau story for global business indicators"
     subtitle: "Parameter-driven country classification and GDP insights"
     thumbnail: "assets/projects/global_business/thumbnail.jpg"
-    url: "projects/2013_iterative-hybrid-algorithm.html"
+    url: "projects/global_business.html"
     selected: y
 
   - title: "Tableau dashboard on how Americans spend their time"
     subtitle: "Insights by age on social, family, and alone time (2009-2019)"
     thumbnail: "assets/projects/americans_time/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
+    url: "projects/americans_time.html"
     selected: y
 
   - title: "Modeling life expectancy and global health trends"
     subtitle: "Statistical analysis and predictive modeling of life expectancy in R"
     thumbnail: "assets/projects/life_expectancy/thumbnail.jpg"
-    url: "projects/2010_wordnet-contruction.html"
+    url: "projects/life_expectancy.html"
     selected: y
 
   - title: "Forecasting customer demand in the ride sharing industry"
     subtitle: "Predicting bike rentals using decision tree based models"
     thumbnail: "assets/projects/bike_rentals/thumbnail.png"
-    url: "projects/2010_fingerprint-verification.html"
+    url: "projects/bike_rentals.html"
     selected: y
 
   - title: "Applied Machine Learning Models (Graduate classwork)"
@@ -56,5 +56,5 @@ projects:
   - title: "Helping Seattle residents coexist with urban coyotes"
     subtitle: "Designed an interactive platform to support human coyote coexistence"
     thumbnail: "assets/projects/coyotes_design/thumbnail.png"
-    url: "projects/2009_connect-four.html"
+    url: "projects/coyotes_design.html"
     selected: y
