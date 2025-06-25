@@ -8,5 +8,6 @@ I signed up for this interesting and challenging project for my spring quarter 2
 This project provided hands-on experience across the BI lifecycle: requirement gathering, data modeling, ELT, and visualization. It also reinforced how data governance and well-designed models drive better insights.
 
 <a href="https://tinyurl.com/y4sdce8u" target="_blank" class="button">Tableau</a>
+<a href="/assets/projects/kimball_dw/IMT 577 Final Project - Team 2-1.pdf" target="_blank" class="button">Report</a>
 <a href="https://github.com/jaivardhanschauhan/businessintelligence" target="_blank" class="button">Code</a>
 
