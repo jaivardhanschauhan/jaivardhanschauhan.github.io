@@ -29,6 +29,12 @@ projects:
     url: "projects/global_business.html"
     selected: y
 
+  - title: "The Ad-Tech Ecosystem"
+    subtitle: "Exploring the data infrastructure behind digital ads"
+    thumbnail: "assets/projects/industry_report/thumbnail.jpg"
+    url: "projects/industry_report.html"
+    selected: n
+
   - title: "Tableau dashboard on how Americans spend their time"
     subtitle: "Insights by age on social, family, and alone time (2009-2019)"
     thumbnail: "assets/projects/americans_time/thumbnail.png"
