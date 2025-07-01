@@ -41,6 +41,12 @@ projects:
     url: "projects/americans_time.html"
     selected: y
 
+  - title: "Business Intelligence Strategy at Spotify"
+    subtitle: "How Spotify uses data to drive engagement and growth?"
+    thumbnail: "assets/projects/org_analysis/thumbnail.jpg"
+    url: "projects/org_analysis.html"
+    selected: n
+
   - title: "Modeling life expectancy and global health trends"
     subtitle: "Statistical analysis and predictive modeling of life expectancy in R"
     thumbnail: "assets/projects/life_expectancy/thumbnail.jpg"
