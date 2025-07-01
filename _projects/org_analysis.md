@@ -3,7 +3,7 @@ layout: project
 title: Business Intelligence Strategy at Spotify
 subtitle: How Spotify uses data to drive engagement and growth?
 ---
-As part of the Spring 2024 class “Foundations of Strategic and Managerial Business Intelligence”, our team conducted an organizational analysis of Spotify, focusing on how it leverages Business Intelligence (BI) to support its strategic goals. These goals include expanding its global user base, boosting user engagement, becoming a leader in audio innovation, and supporting artists through data-driven tools.
+As part of the Winter 2024 class “Foundations of Strategic and Managerial Business Intelligence”, our team conducted an organizational analysis of Spotify, focusing on how it leverages Business Intelligence (BI) to support its strategic goals. These goals include expanding its global user base, boosting user engagement, becoming a leader in audio innovation, and supporting artists through data-driven tools.
 
 We studied Spotify’s BI ecosystem across several dimensions - data warehousing, data visualization, data mining, text analytics, and web analytics. We found that Spotify relies heavily on real-time data to personalize recommendations, optimize advertising, and improve content curation. Its data warehousing enables targeted playlist generation, content trend tracking, and financial analysis related to royalties and revenue. Data visualization helps Spotify identify user behavior patterns, track engagement, and assess performance across regions and demographics.
 
