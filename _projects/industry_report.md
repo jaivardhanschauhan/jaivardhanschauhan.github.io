@@ -1,8 +1,12 @@
 ---
 layout: project
-title: Gradient descent algorithm from scratch
-subtitle: Modeling geological data in Python using regression analysis
+title: The Ad-Tech Ecosystem
+subtitle: Exploring the data infrastructure behind digital ads
 ---
-This project implements a gradient descent algorithm from scratch in Python to model rock permeability using geological data. Firstly, a linear regression model was trained using iterative optimization, with experiments on tuning learning rates and iteration counts to evaluate convergence. The loss function (Mean Squared Error) was tracked over epochs to visualize performance. The final model’s results were compared against Python’s statsmodels library. Visualizations were created to interpret the model’s predictive power on real-world rock data. This comparison showed how custom optimization can closely match standard tools when carefully tuned. 
+My interest in this topic began at InMobi, where I worked on campaign analytics, programmatic ad strategies, and revenue optimization for global advertisers. This hands-on experience gave me a deep appreciation for the complexity of ad-tech systems and the importance of data infrastructure in delivering measurable business impact. This project reflects my ongoing curiosity about how technology and regulation shape the future of digital advertising. 
 
-<a href="https://github.com/jaivardhanschauhan/MLprojects/blob/main/GradientDescent/Gradient_descent.ipynb" target="_blank" class="button">Code</a>
+This project explores the advertising technology (ad-tech) sector - an ecosystem of data platforms, algorithms, and tools that power targeted digital marketing across the globe. The analysis covers the structure of the ad-tech value chain (advertisers, publishers, agencies, and platforms), key challenges like privacy regulations and fraud, and emerging trends such as advanced cloud infrastructure and AI-driven personalization. The report also highlights the critical role of data systems in optimization, real-time bidding, as well as audience segmentation.
+
+<a href="/assets/projects/industry_report/Chauhan_Jaivardhan_industry_report_fall23.pptx" target="_blank" class="button">Slides</a>
+<a href="/assets/projects/industry_report/ChauhanJS_report-1.pdf" target="_blank" class="button">Report</a>
+
