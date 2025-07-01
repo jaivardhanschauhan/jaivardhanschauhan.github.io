@@ -1,8 +1,12 @@
 ---
 layout: project
-title: Gradient descent algorithm from scratch
-subtitle: Modeling geological data in Python using regression analysis
+title: Business Intelligence Strategy at Spotify
+subtitle: How Spotify uses data to drive engagement and growth?
 ---
-This project implements a gradient descent algorithm from scratch in Python to model rock permeability using geological data. Firstly, a linear regression model was trained using iterative optimization, with experiments on tuning learning rates and iteration counts to evaluate convergence. The loss function (Mean Squared Error) was tracked over epochs to visualize performance. The final model’s results were compared against Python’s statsmodels library. Visualizations were created to interpret the model’s predictive power on real-world rock data. This comparison showed how custom optimization can closely match standard tools when carefully tuned. 
+As part of the Spring 2024 class “Foundations of Strategic and Managerial Business Intelligence”, our team conducted an organizational analysis of Spotify, focusing on how it leverages Business Intelligence (BI) to support its strategic goals. These goals include expanding its global user base, boosting user engagement, becoming a leader in audio innovation, and supporting artists through data-driven tools.
 
-<a href="https://github.com/jaivardhanschauhan/MLprojects/blob/main/GradientDescent/Gradient_descent.ipynb" target="_blank" class="button">Code</a>
+We studied Spotify’s BI ecosystem across several dimensions - data warehousing, data visualization, data mining, text analytics, and web analytics. We found that Spotify relies heavily on real-time data to personalize recommendations, optimize advertising, and improve content curation. Its data warehousing enables targeted playlist generation, content trend tracking, and financial analysis related to royalties and revenue. Data visualization helps Spotify identify user behavior patterns, track engagement, and assess performance across regions and demographics.
+
+However, we also uncovered challenges. These include inconsistent data sources, data privacy concerns, infrastructure scalability, and the need for better employee training in BI tools. Despite these hurdles, Spotify has strong opportunities, especially in refining recommendations, improving artist tools through “Spotify for Artists,” and using BI to guide global expansion and content strategy. Our recommendations centered on building user and artist-facing dashboards, improving data preprocessing practices, adopting emerging trends like Natural Language Processing and augmented analytics, and improving data security using technologies like blockchain. 
+
+<a href="/assets/projects/org_analysis/Spotify_576B Team Analysis Presentation-1.pdf" target="_blank" class="button">Report</a>
