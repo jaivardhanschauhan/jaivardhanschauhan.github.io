@@ -33,7 +33,7 @@ projects:
     subtitle: "Exploring the data infrastructure behind digital ads"
     thumbnail: "assets/projects/industry_report/thumbnail.jpg"
     url: "projects/industry_report.html"
-    selected: y
+    selected: n
 
   - title: "Tableau dashboard on how Americans spend their time"
     subtitle: "Insights by age on social, family, and alone time (2009-2019)"
