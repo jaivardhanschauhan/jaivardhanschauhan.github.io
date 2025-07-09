@@ -54,7 +54,7 @@ projects:
     selected: y
 
   - title: "AdTech Campaign Database System"
-    subtitle: "Data Modeling & Relational Design of a Normalized Ad Campaign Database"
+    subtitle: "Data Modeling & Relational Design for Ad Campaign Database"
     thumbnail: "assets/projects/rdbms/thumbnail.png"
     url: "projects/rdbms.html"
     selected: y
