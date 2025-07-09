@@ -1,10 +1,22 @@
 projects:
+  - title: "LLM-Powered Legal Research Chatbot"
+    subtitle: "RAG-based legal search built with Mistral and Streamlit"
+    thumbnail: "assets/projects/llm-chatbot/thumbnail.png"
+    url: "projects/llm-chatbot.html"
+    selected: y
+  
   - title: "Fundraiser Portfolio Scorecard - UW Advancement"
     subtitle: "Turning siloed data into actionable insights for fundraising strategy"
     thumbnail: "assets/projects/fundraiser_db/thumbnail.jpg"
     url: "projects/fundraiser_db.html"
     selected: y
 
+  - title: "Fundraiser Portfolio Scorecard - UW Advancement"
+    subtitle: "Turning siloed data into actionable insights for fundraising strategy"
+    thumbnail: "assets/projects/fundraiser_db/thumbnail.jpg"
+    url: "projects/fundraiser_db.html"
+    selected: y
+  
   - title: "Kimball data warehouse for business intelligence system"
     subtitle: "Sales analysis with dimensional modeling, ELT, & Tableau viz"
     thumbnail: "assets/projects/kimball_dw/thumbnail.jpg"
