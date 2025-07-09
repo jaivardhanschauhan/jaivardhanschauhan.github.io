@@ -53,6 +53,12 @@ projects:
     url: "projects/industry_report.html"
     selected: y
 
+  - title: "AdTech Campaign Database System"
+    subtitle: "Data Modeling & Relational Design of a Normalized Ad Campaign Database"
+    thumbnail: "assets/projects/rdbms/thumbnail.png"
+    url: "projects/rdbms.html"
+    selected: y
+    
   - title: "Tableau dashboard on how Americans spend their time"
     subtitle: "Insights by age on social, family, and alone time (2009-2019)"
     thumbnail: "assets/projects/americans_time/thumbnail.png"
