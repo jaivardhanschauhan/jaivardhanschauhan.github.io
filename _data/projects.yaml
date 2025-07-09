@@ -29,6 +29,12 @@ projects:
     url: "projects/gradient_descent.html"
     selected: y
 
+  - title: "UW Datathon DubsTech'24"
+    subtitle: "Machine Learning for inventory and marketing decisions"
+    thumbnail: "assets/projects/datathon-dubstech/thumbnail.png"
+    url: "projects/datathon-dubstech.html"
+    selected: y
+  
   - title: "Analyzing NYC restaurant market using customer reviews"
     subtitle: "Logistic regression and business classification in R"
     thumbnail: "assets/projects/nyc_restaurants/thumbnail.jpg"
