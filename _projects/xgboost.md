@@ -1,8 +1,10 @@
 ---
 layout: project
-title: Gradient descent algorithm from scratch
-subtitle: Modeling geological data in Python using regression analysis
+title: Audience Segmentation with XGBoost
+subtitle: Classified users from ad-event data for targeted marketing
 ---
-This project implements a gradient descent algorithm from scratch in Python to model rock permeability using geological data. Firstly, a linear regression model was trained using iterative optimization, with experiments on tuning learning rates and iteration counts to evaluate convergence. The loss function (Mean Squared Error) was tracked over epochs to visualize performance. The final model’s results were compared against Python’s statsmodels library. Visualizations were created to interpret the model’s predictive power on real-world rock data. This comparison showed how custom optimization can closely match standard tools when carefully tuned. 
+Developed an Audience Segmentation model using XGBoost to classify premium users from 250K+ ad-event records and 15 behavioral features. The project began with exploratory data analysis to examine feature distributions, handle missing values, and address class imbalance. The model achieved an AUC (Area Under the ROC Curve) of 0.79, reflecting strong ability to distinguish between premium and non-premium users. AUC summarizes how well the model ranks positive instances over negatives across all classification thresholds. It is especially valuable in imbalanced datasets where accuracy may be misleading. 
 
-<a href="https://github.com/jaivardhanschauhan/MLprojects/blob/main/GradientDescent/Gradient_descent.ipynb" target="_blank" class="button">Code</a>
+Boosting is an ensemble learning technique that combines multiple weak learners (typically decision trees) in sequence, where each model focuses on correcting the errors of the previous one. XGBoost (Extreme Gradient Boosting) is an optimized implementation that supports regularization, handles missing data efficiently, and scales well to large datasets. Its main strength lies in high performance on structured data and robust generalization. A potential drawback is that, despite built-in regularization, XGBoost can still overfit if hyperparameters are not carefully tuned.
+
+<a href="https://github.com/jaivardhanschauhan/MLprojects/tree/main/highvalue_users" target="_blank" class="button">Code</a>
