@@ -7,4 +7,4 @@ I built this SQL-based database system out of my interest in advertising technol
 
 For implementation, I wrote SQL DDL scripts to create and populate all core tables using INTEGER, VARCHAR, and DECIMAL data types, with appropriate use of PRIMARY KEY, FOREIGN KEY, and IDENTITY. I also wrote over a dozen SQL queries - covering SELECTs with aggregation, JOINs, INSERTs, UPDATEs, and DELETEs - to simulate realistic use cases like pulling campaign-level performance, analyzing impressions by platform, and managing creative assets.
 
-<a href="https://github.com/jaivardhanschauhan/UW-Datathon24" target="_blank" class="button">Code</a>
+<a href="https://github.com/jaivardhanschauhan/datamodel-rdbms-adtech" target="_blank" class="button">Code</a>
